@@ -6,6 +6,7 @@ import Register from './pages/Register';
 import Cart from './pages/Cart';
 import { Routes, Route } from 'react-router-dom';
 import Success from './pages/Success';
+import index from './index.css';
 // import { useSelector } from "react-redux";
 
 const App = () => {
